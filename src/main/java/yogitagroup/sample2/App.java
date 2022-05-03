@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Sample maven web  project  2  " );
+        System.out.println( "Maven java  sample 2 project in first commit this one line present" );
+        System.out.println( "Maven java  sample 2 project in second commit this second line added" );
     }
 }
